@@ -1,4 +1,4 @@
-#include "fraction1.hpp"
+#include "fraction.hpp"
 
 double Fraction::gcd(int n, int d)
 {

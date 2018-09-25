@@ -1,5 +1,5 @@
 #include <iostream>
-#include "fraction1.hpp"
+#include "fraction.hpp"
 
 using namespace std;
 
